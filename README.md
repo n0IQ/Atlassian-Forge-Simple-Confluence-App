@@ -47,3 +47,5 @@ See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how
 ![](./images/step-2.png)
 
 ![](./images/step-3.png)
+
+![](./images/comments-count.png)
