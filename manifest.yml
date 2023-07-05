@@ -1,0 +1,11 @@
+modules:
+  macro:
+    - key: hello-world-app-hello-world
+      function: main
+      title: Forge app for Mohit
+      description: Inserts Hello world!
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/2a162005-4ace-4d59-895c-a83c68abc419
