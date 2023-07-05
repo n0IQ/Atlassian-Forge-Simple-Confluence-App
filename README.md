@@ -42,8 +42,8 @@ See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how
 
 ## Images
 
-(./images/step-1.png)
+![](./images/step-1.png)
 
-(./images/step-2.png)
+![](./images/step-2.png)
 
-(./images/step-3.png)
+![](./images/step-3.png)
